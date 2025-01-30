@@ -11,9 +11,8 @@ I'm a passionate **developer** who loves turning ideas into reality through **co
 ## 💡 What I Love  
 I enjoy problem-solving, building innovative applications, and constantly learning new technologies. Whether it's crafting mobile apps, exploring AI, or optimizing code, I'm always excited to push boundaries!  
 
-## 📫 Let's Connect!  
-- 🔗 **GitHub:** [Your GitHub Profile Link]  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile Link]  
-- 💌 **Email:** [Your Email]  
+## 📫 Let's Connect!     
+- 🔗 **LinkedIn:** www.linkedin.com/in/qamar-zaman-imcodeloverandreadyforthrill  
+- 💌 **Email:** lovelyqamarzaman786@gmail.com  
 
 > *"Code, Create, Innovate!"* 🚀🔥  
