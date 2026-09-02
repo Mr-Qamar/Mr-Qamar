@@ -1,18 +1,18 @@
-# 👋 Hi there, I'm Qamar! 🚀  
+# Qamar Zaman
+**Expert Flutter developer** — I design and ship full products (Android, iOS, web, desktop), not only UI screens.
 
-I'm a passionate **developer** who loves turning ideas into reality through **code**! 💻✨  
+**4+ years:** 1 year native Android, 3 years Flutter.  
+**Work:** Freelance & contract (client products in CRM, rentals, field ops).  
+**Stack:** Flutter, Dart, Riverpod, Firebase, Supabase, REST. Play Store & App Store.
 
-## 🌟 About Me  
-- 🔹 **Languages:** C, C++, Java, Dart, Python  
-- 🔹 **App Development:** Android Studio (Native), Flutter (Cross-Platform)  
-- 🔹 **Learning:** AI & Deep Learning 🤖  
-- 🔹 **Currently Working at:** CAS Software House, Pakistan  
+### Selected work
+Case studies and screenshots live on my portfolio: https://qamar-zaman-portfolio.web.app/
 
-## 💡 What I Love  
-I enjoy problem-solving, building innovative applications, and constantly learning new technologies. Whether it's crafting mobile apps, exploring AI, or optimizing code, I'm always excited to push boundaries!  
+- Digitron CRM — enterprise Flutter desktop (workforce + CRM), built solo  
+- NV Car Rentals — customer + ops Flutter app  
+- R&M Roofing — estimates and crew quotes (Flutter + Supabase)
 
-## 📫 Let's Connect!     
-- 🔗 **LinkedIn:** www.linkedin.com/in/qamar-zaman-imcodeloverandreadyforthrill  
-- 💌 **Email:** lovelyqamarzaman786@gmail.com  
-
-> *"Code, Create, Innovate!"* 🚀🔥  
+### Contact
+- Email: qamarzaman.dev1@gmail.com  
+- GitHub: github.com/Mr-Qamar  
+- LinkedIn: linkedin.com/in/qamarzaman-dev1
